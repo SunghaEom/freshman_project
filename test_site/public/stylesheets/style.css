@@ -1,0 +1,19 @@
+<style type = "text/css">
+body {
+  background: url("../../images/kaist_map.png") no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+div {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 10px;
+}
+
+.restaurant {
+    background-color: aliceblue;
+    float: left;
+    padding: 10px;
+}
+</style>
